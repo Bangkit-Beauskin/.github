@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/ed22f785-6379-49fc-9a35-7ca3508b77f9)
-
 # About Beauskin :lotion_bottle:
 
 The diversity of facial skin types often leads individuals to make poor decisions when purchasing skincare products due to a lack of knowledge about proper and safe skin analysis. A study by Dwi Sukristiani reveals that approximately 80% of people are unaware of the appropriate skincare products for their skin type, leading to ineffective or harmful outcomes. Despite the rapid growth of the Indonesian skincare market—accounting for 45.7% of FMCG sales and projected to reach USD $1.35 billion by 2024—there remains a lack of data-driven tools for accurate skin condition identification and personalized skincare advice. This gap leaves many consumers confused and unable to make informed choices, highlighting the need for innovative solutions in the industry.
@@ -11,6 +9,8 @@ To address these issues, our project aims to develop an application that leverag
 - **Skin Analysis:** Users can take a photo of their face, and the app will analyze both their skin type and any skin problems. For skin type, the analysis will classify it into three categories: oily, normal, and dry. For skin problems, the app will detect issues, assess acne severity, and highlight the affected areas with bounding boxes on the image to indicate their exact locations.
 
 - **Chatbot Recommendation:** Users can ask the chatbot about their skin problems, and the chatbot will provide recommendations on how to address those issues effectively.
+
+![image](https://github.com/user-attachments/assets/ed22f785-6379-49fc-9a35-7ca3508b77f9)
 
 # Our Member :handshake:
 
