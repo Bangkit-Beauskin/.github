@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ed22f785-6379-49fc-9a35-7ca3508b77f9)
+
 # About Beauskin :lotion_bottle:
 
 The diversity of facial skin types often leads individuals to make poor decisions when purchasing skincare products due to a lack of knowledge about proper and safe skin analysis. A study by Dwi Sukristiani reveals that approximately 80% of people are unaware of the appropriate skincare products for their skin type, leading to ineffective or harmful outcomes. Despite the rapid growth of the Indonesian skincare market—accounting for 45.7% of FMCG sales and projected to reach USD $1.35 billion by 2024—there remains a lack of data-driven tools for accurate skin condition identification and personalized skincare advice. This gap leaves many consumers confused and unable to make informed choices, highlighting the need for innovative solutions in the industry.
