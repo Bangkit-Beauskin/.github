@@ -18,11 +18,12 @@ To address these issues, our project aims to develop an application that leverag
 | ------------ | ------------------------------ | ------------------ |
 | C271B4KY2225 | Koong Hiap                     | Cloud Computing    |
 | C271B4KY4210 | Stevanus Pungky                | Cloud Computing    |
+| A271B4KX0616 | Areta Escalonia Candra         | Mobile Development |
+| A271B4KY3800 | Rheinald Adyatama Rizqi Wibowo | Mobile Development |
 | M429B4KX3196 | Nadhea Filosofia               | Machine Learning   |
 | M271B4KY4429 | Vincent Jonathan Budiman       | Machine Learning   |
 | M271B4KX4447 | Wafa Salma Sentanu             | Machine Learning   |
-| A271B4KX0616 | Areta Escalonia Candra         | Mobile Development |
-| A271B4KY3800 | Rheinald Adyatama Rizqi Wibowo | Mobile Development |
+
 
 # Repository :open_file_folder:
 
